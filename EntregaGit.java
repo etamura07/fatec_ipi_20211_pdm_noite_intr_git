@@ -8,5 +8,6 @@ public class EntregaGit{
     //outra funcionalidade
     //mais uma
     //outra
+    //mais outra
   }
 }
