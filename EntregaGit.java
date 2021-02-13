@@ -6,5 +6,7 @@ public class EntregaGit{
     // System.out.println("Entregando tarefas com o git na linha de comando.");
     JOptionPane.showMessageDialog(null, String.format("Bem vindo, %s", nome));
     //outra funcionalidade
+    //mais uma
+    //outra
   }
 }
